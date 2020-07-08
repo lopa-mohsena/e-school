@@ -2,7 +2,7 @@
     color: red;
 }
 .container{
-    margin-bottom: 100px;
+    margin-bottom: 150px;
 }
 
 .orange-bg{
@@ -59,4 +59,9 @@
 }
 footer{
     text-align: center;
+}
+.col-mid-3{
+    background-color: red;
+    padding: 10px;
+    text-align: justify;
 }

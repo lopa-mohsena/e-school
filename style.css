@@ -1,3 +1,6 @@
+.h6{
+    color: red;
+}
 .container{
     margin-bottom: 100px;
 }
@@ -13,10 +16,10 @@
     color:rebeccapurple;
 }
 .buy-now-button{
-    background-image: linear-gradient(to bottom,#FF5898 0%,#FF136F 100%);
+    background-image: linear-gradient(to bottom,#69be07e3 0%,#39cc0cd8 100%);
     color: #ffff;
     border: none;
-    border-radius: 8px;
+    border-radius: 45px;
     padding: 9px 25px;
     cursor: pointer;
 }
